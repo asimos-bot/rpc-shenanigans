@@ -1,0 +1,1 @@
+Existe mais latência entre máquinas diferentes, fazendo com que a transmissão de dados leve mais tempo.

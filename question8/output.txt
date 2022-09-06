@@ -1,0 +1,11 @@
+n: 100
+  timer in server: 0.08309412002563477
+  timer in client: 0.09177422523498535
+n: 1000
+  timer in server: 0.22089481353759766
+  timer in client: 0.22695255279541016
+n: 10000
+  timer in server: 1.566495418548584
+  timer in client: 1.5681231021881104
+
+o tempo obtido aumenta tanto no servidor quanto no cliente de acordo com o aumento de n.
