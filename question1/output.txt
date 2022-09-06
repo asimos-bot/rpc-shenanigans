@@ -1,0 +1,3 @@
+<__main__.MyService object at 0x7fe6e5623e50>
+42
+43
